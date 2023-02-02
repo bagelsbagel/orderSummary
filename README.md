@@ -30,8 +30,8 @@ Create an Order summary card that is both responsive and interactive.The card sh
 
 ### Links
 
-- Solution URL: [Github]()
-- Live Site URL: [Live Site]()
+- Solution URL: [Github](https://github.com/bagelsbagel/orderSummary)
+- Live Site URL: [Live Site](https://bagelsbagel.github.io/orderSummary/)
 
 ## My process
 
